@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "测试",
+  "main": "fis-conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis3"
+  ],
+  "author": "刘小龙",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "fis-optimizer-clean-css": "0.0.12",
+    "fis-optimizer-uglify-js": "^0.2.2",
+    "fis-parser-node-sass": "^0.2.1",
+    "fis3": "^3.4.17",
+    "fis3-hook-commonjs": "^0.1.25",
+    "fis3-hook-relative": "^1.0.9",
+    "fis3-postpackager-loader": "^2.0.5",
+    "fis3-preprocessor-autoprefixer": "^0.1.0"
+  }
+}
